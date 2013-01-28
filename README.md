@@ -9,8 +9,11 @@ Plugin must contain a default.ns.ps1 as a script implementing fake interface of 
 folder convention:
 
 sonar\
+
 functions\*.ns.ps1
+
 tools\sonar-runner
+
 default.ns.ps1 - script block 
 
 ## inject required configuration
