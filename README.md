@@ -1,4 +1,4 @@
-sonarPlugin
+# Sonar Plugin for NScaffold
 ===========
 
 ## conventions
